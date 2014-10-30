@@ -1,5 +1,4 @@
-treepath
----------
+# treepath
 
 Treepath takes an array of pathnames and gives you back an object representation of that path hierarchy.
 
