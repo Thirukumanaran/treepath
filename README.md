@@ -79,3 +79,7 @@ var tree = treepath(paths);
   }
 }
 ```
+
+## License
+
+MIT
